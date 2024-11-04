@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://avuvaena.github.io/RZb/sitemap_index.txt
+Sitemap: https://avuvaena.github.io/dLN/sitemap_index.txt
+Sitemap: https://avuvaena.github.io/nCZ/sitemap_index.txt
+Sitemap: https://avuvaena.github.io/qZh/sitemap_index.txt
